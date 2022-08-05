@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿// See https://aka.ms/new-console-template for more information
+using System.Text;
 using TLSTest;
 
 Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
